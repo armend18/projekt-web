@@ -183,7 +183,7 @@ document.getElementById('login-form').addEventListener('submit', (e) => {
 
     setLoggedInUser(user);
 
-    alert(`Welcome back, ${user.name}!`);
+    window.location.href="home_page.html"
 });
 
 
