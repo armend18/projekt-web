@@ -1,4 +1,4 @@
-// Cover Upload Preview
+// Cover Upload Preview Drini
 const inputFile = document.getElementById("input-file");
 const previewBox = document.querySelector(".preview-box");
 let coverDataUrl = "";
@@ -20,7 +20,7 @@ document.getElementById("publishBtn").addEventListener("click", (e) => {
     e.preventDefault();
 
     // Get form values so we can create form object
-    
+
     const title = document.getElementById("title").value;
     const description = document.getElementById("description").value;
     const yearOfRelease = parseInt(document.getElementById("year").value);
@@ -31,8 +31,10 @@ document.getElementById("publishBtn").addEventListener("click", (e) => {
     const cast = document.getElementById("cast").value.split(",").map(a => a.trim());
     const genres = Array.from(document.getElementById("genres").selectedOptions).map(o => o.value);
     const country = document.getElementById("country").value;
-    const videoLink = document.getElementById("videoLink").value;
+    let videoLink = document.getElementById("videoLink").value;
     const type = document.querySelector('input[name="type"]:checked').value;
+
+    videoLink=toEmbed(videoLink);
 
     // Validate all fields
     if (!title || !description || !yearOfRelease || !runTime || !age || !director || cast.length === 0 || genres.length === 0 || !country || !coverDataUrl || !videoLink) {
@@ -65,3 +67,13 @@ document.getElementById("publishBtn").addEventListener("click", (e) => {
     alert("Movie added successfully!");
      window.location.href = "home_page.html";
 });
+
+function toEmbed(url) {
+    // extract the part after watch?v=
+    const id = url.split("watch?v=")[1];
+    if (!id) return null;
+
+    return "https://www.youtube.com/embed/" + id;
+};
+
+
