@@ -113,9 +113,19 @@ const $container3 = $("#new-releases3");
 // Save and Load Movies
 
 $(document).ready(function () {
-  localStorage.setItem("movies", JSON.stringify(movies));
+  
+ if (!localStorage.getItem("movies")) {
+    localStorage.setItem("movies", JSON.stringify(movies));
+  }
   populate();
 });
+//Navigate Back To Login
+document.getElementById("log-in-home").onclick = function () {
+        window.location.href = "signup.html";}
+
+//Navigate Back To Add Movies     
+document.getElementById("add_movie_button").onclick = function () {
+        window.location.href = "add_movie.html";}
 
 // Populate UI
 
@@ -147,7 +157,7 @@ function styleRing(ring, rating) {
 // Template Cloning
 
 function createClone(template, data) {
-  const clone = template[0].content.cloneNode(true); // FIXED
+  const clone = template[0].content.cloneNode(true); 
 
   clone.querySelector("img").src = data.cover;
   clone.querySelector(".title").textContent = data.title;
@@ -160,3 +170,9 @@ function createClone(template, data) {
 
   return clone;
 }
+
+
+
+
+
+
