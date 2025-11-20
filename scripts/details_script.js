@@ -51,3 +51,5 @@ function styleRing($ring, rating) {
   else if (rating >= 4.5) $ring.css("border", "2px solid orange");
   else $ring.css("border", "2px solid red");
 }
+document.getElementById("log-in-home").onclick = function () {
+        window.location.href = "signup.html";}
