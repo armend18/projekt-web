@@ -48,7 +48,11 @@
                   <li>
                     <a class="dropdown-item" href="home_page.html">Home</a>
                   </li>
-                  <li><a class="dropdown-item" href="#">Create Movie</a></li>
+                  <li>
+                    <a class="dropdown-item" href="add_movie.html"
+                      >Create Movie</a
+                    >
+                  </li>
                 </ul>
               </li>
 
@@ -63,12 +67,19 @@
                   Genres
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Comedy</a></li>
-                  <li><a class="dropdown-item" href="#">Drama</a></li>
-                  <li><a class="dropdown-item" href="#">Sci-Fi</a></li>
-                  <li><a class="dropdown-item" href="#">Thriller</a></li>
-
+                  <li>
+                    <a class="dropdown-item genres" id="action">Action</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item genres" id="comedy">Comedy</a>
+                  </li>
+                  <li><a class="dropdown-item genres" id="drama">Drama</a></li>
+                  <li>
+                    <a class="dropdown-item genres" id="sci-fi">Sci-Fi</a>
+                  </li>
+                  <li>
+                    <a class="dropdown-item genres" id="thriller">Thriller</a>
+                  </li>
                   <li><hr class="dropdown-divider" /></li>
                   <li>
                     <a class="dropdown-item" href="home_page.html">All</a>
@@ -76,9 +87,9 @@
                 </ul>
               </li>
 
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a class="nav-link" href="#">Link</a>
-              </li>
+              </li> -->
             </ul>
             <form class="d-flex" role="search">
               <input
@@ -91,11 +102,15 @@
                 Search
               </button>
             </form>
-            <button type="button" class="btn btn-warning m-2" id="add_movie_button">
-             Add New Movie 
+            <button
+              type="button"
+              class="btn btn-warning m-2"
+              id="add_movie_button"
+            >
+              Add New Movie
             </button>
 
-            <button type="button" class="btn btn-warning m-2" id="log-in-home" >
+            <button type="button" class="btn btn-warning m-2" id="log-in-home">
               Login
             </button>
           </div>
@@ -139,9 +154,6 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">TV SERIES</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">CARTOONS</a>
               </li>
             </ul>
             <div class="d-flex flex-row gap-3" id="new-releases2"></div>
@@ -272,6 +284,7 @@
       integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
       crossorigin="anonymous"
     ></script>
-    <script src="scripts/script.js"></script>
+    <script src="scripts/scripts.js"></script>
+    <script src="scripts/filtering_navBar.js"></script>
   </body>
 </html>
