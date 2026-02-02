@@ -1,0 +1,12 @@
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\bin\Debug\net7.0\Movies.Application.deps.json
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\bin\Debug\net7.0\Movies.Application.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\bin\Debug\net7.0\Movies.Application.pdb
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.csproj.AssemblyReference.cache
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.AssemblyInfoInputs.cache
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.AssemblyInfo.cs
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.csproj.CoreCompileInputs.cache
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\refint\Movies.Application.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\Movies.Application.pdb
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Application\obj\Debug\net7.0\ref\Movies.Application.dll

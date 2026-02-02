@@ -1,0 +1,13 @@
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\bin\Debug\net10.0\Movies.Contracts.deps.json
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\bin\Debug\net10.0\Movies.Contracts.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\bin\Debug\net10.0\Movies.Contracts.pdb
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.AssemblyInfoInputs.cache
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.AssemblyInfo.cs
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\refint\Movies.Contracts.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.pdb
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\ref\Movies.Contracts.dll
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.sourcelink.json
+C:\Users\armen\Downloads\RSplLnyjQ5q85ag9snpC_3.1\rest-api-course-final-master\1.GettingStarted\Movies.Contracts\obj\Debug\net10.0\Movies.Contracts.csproj.AssemblyReference.cache

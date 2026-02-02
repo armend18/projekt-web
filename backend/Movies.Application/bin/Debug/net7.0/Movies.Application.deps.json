@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Movies.Application/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-rc.2.25502.107"
+        },
+        "runtime": {
+          "Movies.Application.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0-rc.2.25502.107": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8jujunpkNNfTkE9PFHp9/aD6GPKVfNCuz8tUbzOcyU5tQOCoIZId4hwQNVx3Tb8XEWw9BYdh0k5vPpqdCM+UtA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.2.25502.107",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512"
+    }
+  }
+}
